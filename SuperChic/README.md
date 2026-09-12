@@ -1,3 +1,5 @@
+# Fonte: https://github.com/LucianHL/SuperChic
+
 # SuperChic MC event generator for central exclusive production
 
 Version 5.4
