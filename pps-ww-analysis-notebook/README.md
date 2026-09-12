@@ -1,4 +1,4 @@
-### Autor: Miguel
+### Fonte:
 
 https://github.com/miguelgallo/pps-ww-analysis-notebook
 
